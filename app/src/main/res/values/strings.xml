@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">prakt19p2</string>
+    <string name="name">Введите имя</string>
+    <string name="age">Введите возраст</string>
+    <string name="add">Добавить</string>
+    <string name="save">Сохранить</string>
+    <string name="open">Открыть</string>
+</resources>
